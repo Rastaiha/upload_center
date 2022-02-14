@@ -8,7 +8,8 @@
 فایل‌ها را drag and drop کنید و داخل پروژه بیندازید! 
 
 ## به کمک ترمینال
-با دستور زیر، پروژه را clone کنید:
+ابتدا git را روی کامپیوتر خود نصب کنید.
+سپس با دستور زیر، پروژه را clone کنید:
 
 - `git clone https://github.com/Rastaiha/upload_center.git`
 - `cd upload_center`
