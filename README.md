@@ -11,6 +11,7 @@
 با دستور زیر، پروژه را clone کنید:
 
 - `git clone https://github.com/Rastaiha/upload_center.git`
+- `cd upload_center`
 
 سپس فایل‌های مورد نظر خود را داخل پوشه‌های مناسب در پروژه قرار دهید.
 
