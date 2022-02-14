@@ -20,6 +20,7 @@
 
 - `git add .`
 - `git commit -m "add new files"`
+- `git pull`
 - `git push`
 
 # نکات
