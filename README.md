@@ -21,7 +21,7 @@
 
 پس از قراردادن فایل‌ها، دستورات زیر را وارد کنید تا تغییرات را روی مخزن اعمال کنید:
 
-- `git add .`
+- `git add -A`
 - `git commit -m "add new files"`
 - `git pull`
 - `git push`
